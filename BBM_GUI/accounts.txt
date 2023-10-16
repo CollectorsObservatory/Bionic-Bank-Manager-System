@@ -1,0 +1,3002 @@
+Holdername  |  Account balance | Account number
+
+  
+John Church 471.72 392768030309
+  
+  
+Linda Allen 740.93 911242242708
+  
+  
+Donna Rosenthal 1456.07 420453584128
+  
+  
+Marsha Eaton 3947.01 693182459174
+  
+  
+Catherine Wise 7881.09 577793547648
+  
+  
+Buford Alvarado 4145.22 645933898345
+  
+  
+Sara Baez 2668.62 196845114899
+  
+  
+Joe King 5011.84 405243904409
+  
+  
+Myrtle Dulaney 3834.53 661956963681
+  
+  
+Ethel Wilson 773.34 206071311947
+  
+  
+Ronald Valdovinos 2778.08 274758336484
+  
+  
+Stuart Gonzalez 9419.59 500040100087
+  
+  
+Thomas Escudero 8906.16 500662971937
+  
+  
+Olga Williams 1231.36 982445573543
+  
+  
+Virginia Parham 9435.67 119016631240
+  
+  
+Randy Hayes 1596.26 206605847526
+  
+  
+Christina Orsi 3216.01 676720941066
+  
+  
+Karen Little 3277.83 189971851861
+  
+  
+Anna Loyd 3894.91 949762776804
+  
+  
+Jacqueline Vandiver 9450.28 153160984227
+  
+  
+Sandra Culpepper 3130.97 532313124582
+  
+  
+Michael Dunlap 6620.05 641122144252
+  
+  
+Ken Watson 3269.69 279046369836
+  
+  
+Herman Simmons 598.44 571480074529
+  
+  
+Benjamin Dockery 9031.05 162951947174
+  
+  
+Len Salazar 8820.49 353026280259
+  
+  
+David Guild 5648.62 456421311245
+  
+  
+Amy Williams 1749.97 242697035575
+  
+  
+Steven Alexander 4041.93 510375636237
+  
+  
+Irene Wash 5388.38 113715443743
+  
+  
+Jason Rouse 463.17 469130299328
+  
+  
+Kayla Kramer 8003.77 784263353362
+  
+  
+Rick Schusterman 8725.77 478575740050
+  
+  
+Charles Soto 5126.0 667671087807
+  
+  
+John Ramirez 9451.94 568929048974
+  
+  
+Shirley Fox 433.71 665121715134
+  
+  
+Veronica Brotherton 8588.71 678416378382
+  
+  
+Jonathan Sanchez 5985.57 288395340989
+  
+  
+Richard Ave 5038.73 579769203515
+  
+  
+Peter Pollard 6235.48 277948938190
+  
+  
+Tonya Grace 5695.91 448078763027
+  
+  
+Leroy Fietek 1351.8 412615371596
+  
+  
+Lindsay Correa 2468.15 673058763925
+  
+  
+Margarita Gensler 9123.44 275379137266
+  
+  
+Cassandra Kimbro 1301.68 686734829494
+  
+  
+Rosa Brumbaugh 6548.28 188709347206
+  
+  
+Matthew Chiaramonte 8504.88 319753019578
+  
+  
+Charles Collins 4932.37 595822316468
+  
+  
+Mark Gonzales 5387.54 377380124109
+  
+  
+Dawn Lu 8747.34 928005573333
+  
+  
+Paul Nelson 6340.83 547317096240
+  
+  
+Joyce Moriarty 5953.95 346085564303
+  
+  
+Lawrence Wilder 8771.13 794589131299
+  
+  
+Rudy Ariza 5178.41 813778343914
+  
+  
+Eric Williams 6326.25 889627130027
+  
+  
+Jeffery Citron 8842.9 699079230351
+  
+  
+Brent Stern 3996.45 857743279656
+  
+  
+Maud Reese 2338.39 169307827114
+  
+  
+Vincent Grassi 1288.2 876208044800
+  
+  
+Sally Babino 6864.26 795919630387
+  
+  
+Deborah Gates 2807.02 665743033750
+  
+  
+James Booe 7158.35 987979661436
+  
+  
+William Slavens 7365.86 887648184075
+  
+  
+Merrill Knowles 2158.38 302178529019
+  
+  
+Michael Rivera 2651.06 612729035978
+  
+  
+Aurea Leonard 2365.11 331950501945
+  
+  
+Cynthia Krok 2358.65 127914623623
+  
+  
+Ronnie Michael 542.95 698612129350
+  
+  
+Marcus Webb 6626.27 800402215815
+  
+  
+Maria Holt 5748.95 661384404135
+  
+  
+Marie Dickens 7328.52 404318214460
+  
+  
+Leticia Babbitt 7524.97 326126497754
+  
+  
+Jason Jones 8615.63 622344834824
+  
+  
+Jeanne Gregory 6882.12 489477349122
+  
+  
+Darla Perez 2503.64 735019797908
+  
+  
+Wm Minucci 8314.07 774494793441
+  
+  
+Charles Garcia 7430.86 988132415374
+  
+  
+Carol Christenson 1511.76 480967804698
+  
+  
+Laurie Yaple 3892.32 252304459287
+  
+  
+Larry Florido 1376.65 265187921235
+  
+  
+Vickie Kovach 2937.1 424999823550
+  
+  
+Mildred Anaya 7133.19 694028982080
+  
+  
+Lawrence Jackson 8068.52 226991336790
+  
+  
+John Laporte 7423.75 630800587726
+  
+  
+Kevin Principe 7413.64 604155915458
+  
+  
+Charlotte Mabry 2019.25 699667326669
+  
+  
+Patricia Kramer 7296.02 153819607853
+  
+  
+Gloria Sliger 2836.57 841256957897
+  
+  
+Leroy Ostrzyeki 4461.22 599801484241
+  
+  
+Michael Cheng 1662.3 152614471751
+  
+  
+Wilbert Macdonald 1317.0 246758632008
+  
+  
+Andrew Burke 4088.91 265557783223
+  
+  
+Elaine Harp 7977.0 902123721808
+  
+  
+Sandra Beaman 7796.65 369560186053
+  
+  
+Rita Rinaldi 9441.06 319759839898
+  
+  
+Robert Kull 726.78 764149487297
+  
+  
+Francesco Rose 6057.31 375711495149
+  
+  
+Lawrence Shephard 7464.21 755576504355
+  
+  
+Robert Lanehart 4064.14 548319028648
+  
+  
+Samantha Williams 6197.21 194586503862
+  
+  
+Lillian Kintzel 7832.76 276327414814
+  
+  
+Dorothy Klipfel 1881.09 279633071217
+  
+  
+Susan Huston 3021.23 177331449222
+  
+  
+Virginia Mccain 5222.68 226489845431
+  
+  
+Dorothy Parker 3387.47 807654439256
+  
+  
+Raymond Barnes 7889.28 960621554092
+  
+  
+Steven Stephens 6156.73 779908304246
+  
+  
+Patricia Miller 6929.54 659665529398
+  
+  
+Bianca Garza 8716.76 500525731894
+  
+  
+Linda Myers 4713.64 146371900633
+  
+  
+Cathy Dugger 6446.67 272661250238
+  
+  
+Ruth Young 8240.07 218830729627
+  
+  
+Frankie Rhymes 7269.55 606260768837
+  
+  
+Renee Porterfield 3461.59 923030644745
+  
+  
+Larry Jose 3415.23 982483759640
+  
+  
+Evelyn Men 2875.16 497683312611
+  
+  
+Linda Gans 7936.68 765547883911
+  
+  
+Juanita Deveau 6583.58 635788940335
+  
+  
+Richard Bertrand 8859.02 688220782960
+  
+  
+Harold Allen 8201.95 643875059214
+  
+  
+Kevin Alonzo 6272.08 811450000154
+  
+  
+Mark Kee 5072.32 524221589715
+  
+  
+James Bowen 1085.03 884554688717
+  
+  
+Michael Schlick 5398.72 171336802248
+  
+  
+Bert Wooten 2762.41 732299960300
+  
+  
+Brandy Grenier 4525.65 129111180480
+  
+  
+Gisela Moe 4458.18 854816194243
+  
+  
+Andrew Balnis 2441.75 413973193480
+  
+  
+Tracie Cox 7114.69 402417721887
+  
+  
+Minerva Hines 7264.46 133000361317
+  
+  
+Daniel Haag 1332.49 542824873193
+  
+  
+Timothy Stack 8340.22 441118359633
+  
+  
+Henry Flinchum 2476.54 343585127714
+  
+  
+Patricia Weaver 2018.36 785619521482
+  
+  
+Bobby Westberg 9989.45 507283119721
+  
+  
+Lena Murphy 5417.48 826987043208
+  
+  
+Johnny Akers 6369.51 834347740338
+  
+  
+Wilma Ward 2862.54 637178993194
+  
+  
+Patricia Phillips 1401.7 334617534936
+  
+  
+Sam Madigan 8176.98 390899314849
+  
+  
+Laura Keitt 629.22 782984833723
+  
+  
+Cory Bartel 3300.11 796130472425
+  
+  
+Teresita Lorge 4228.28 464062816263
+  
+  
+Angel Fraley 2641.89 896150691245
+  
+  
+Elouise Kuhn 6544.12 140350754700
+  
+  
+Jeffery Poole 1454.0 312050222992
+  
+  
+Christopher Siske 9483.39 539885957413
+  
+  
+Glenn Granger 277.91 778716975243
+  
+  
+Charles Richmond 8095.72 305337852880
+  
+  
+Michael Whitlock 2926.78 916056218442
+  
+  
+Joann Witt 8439.86 952391704983
+  
+  
+Elise Ennen 6634.11 331691919290
+  
+  
+Manuel Chappell 9950.95 317722561076
+  
+  
+Sean Lyons 1849.13 789747309308
+  
+  
+Clara Holloway 4422.46 211535714729
+  
+  
+Troy Oneal 3356.36 803517386249
+  
+  
+Clyde Bates 1790.24 753930336006
+  
+  
+Eric Howard 969.19 852689718818
+  
+  
+Denise Steagell 7988.17 686294937840
+  
+  
+Thomas Friday 9616.31 469506599246
+  
+  
+Marlene Hood 3818.23 865973756341
+  
+  
+Edwin Otero 4541.82 536637681737
+  
+  
+David Magee 2271.46 626126021552
+  
+  
+Ingrid Thode 3474.38 776032654512
+  
+  
+Jerry Hassett 9579.89 240527383818
+  
+  
+David Trickett 5615.15 371482697333
+  
+  
+Noel Cousins 8125.59 993311826309
+  
+  
+Kathryn Siler 2668.68 790550192154
+  
+  
+Melissa Moore 3317.93 882787657875
+  
+  
+Jeff Helgason 972.41 188241838372
+  
+  
+Matt Tutor 8910.68 699900467306
+  
+  
+Sandy Galloway 9601.97 482789670429
+  
+  
+Timothy Ruhland 3216.34 579722299710
+  
+  
+Ronald Kirkpatrick 4936.09 711357361931
+  
+  
+Maxine Burge 7053.19 667186390621
+  
+  
+Stefanie Bennett 7902.47 310840860847
+  
+  
+Brittany Widrick 6223.37 982251291720
+  
+  
+Sandra Hannah 4705.27 966766861328
+  
+  
+Gwenda Suarez 7197.8 113388013112
+  
+  
+Janet Jones 7482.43 939576422384
+  
+  
+Hassan Perla 9685.02 328665111555
+  
+  
+Cora Wiggins 7686.47 288571324388
+  
+  
+Wendy Walker 8319.43 526100519716
+  
+  
+John Higgins 8204.26 829476125781
+  
+  
+Joan Siddique 2530.28 751182568302
+  
+  
+Lester Whitaker 2505.4 899386953061
+  
+  
+Jeffrey Gracia 8738.56 333773223476
+  
+  
+Leopoldo Wyckoff 2225.08 456036751126
+  
+  
+Angel Bissonnette 9852.21 679786020276
+  
+  
+Pamela Lindeman 6269.79 306676350742
+  
+  
+Tina Clark 9997.07 999515112420
+  
+  
+Candy Breitbart 4094.04 263934767807
+  
+  
+Denise Day 5272.8 520049239326
+  
+  
+Ruby Carney 1253.39 621069409968
+  
+  
+Eileen Cordray 4201.09 752972417999
+  
+  
+Billy Allison 6787.36 389761986212
+  
+  
+Rachael Beck 8311.54 557646100583
+  
+  
+Dee Boyd 1576.17 989092482919
+  
+  
+Sheryl Lopez 3468.82 349820056477
+  
+  
+Christine Rogers 3634.74 595439223342
+  
+  
+Helen Bolden 8422.56 970851615578
+  
+  
+Betty Fulcher 704.17 445035880069
+  
+  
+Betty Bowers 4374.07 865865584237
+  
+  
+Eric Miller 9256.98 153258466827
+  
+  
+John Dougherty 9024.67 611483505076
+  
+  
+Wm Conley 8378.2 156084937624
+  
+  
+Emily Hatton 5061.15 827711401643
+  
+  
+Patrick Whitlow 6739.65 442484399557
+  
+  
+Daniel Figueroa 8604.27 255671699254
+  
+  
+Ouida Pectol 2532.72 732384917687
+  
+  
+Dylan Sale 1560.46 375935823434
+  
+  
+Daniel Gonzales 6634.81 895036892953
+  
+  
+Glenn Rivera 6513.41 874934631740
+  
+  
+Robert Mitchell 4748.64 430807417811
+  
+  
+Mark Fagg 2690.83 255384630274
+  
+  
+Theresa Mimes 1915.09 242845297143
+  
+  
+Emma Bier 159.25 929696967521
+  
+  
+Don Rodriguez 812.58 411899825278
+  
+  
+Debbie Watkins 3397.07 120414507382
+  
+  
+Frances Bernard 5942.52 951906492821
+  
+  
+Linda Michels 9814.42 211635001709
+  
+  
+Lillian Jones 8081.69 471961673797
+  
+  
+Rodney Kaplan 4471.56 697323637021
+  
+  
+Maria Heter 7935.71 850931854636
+  
+  
+Scott Grant 4117.23 955681243574
+  
+  
+Janice Smith 7625.67 845150823318
+  
+  
+Gary Stennett 8346.56 312332251580
+  
+  
+Tomas Cahill 8649.5 959076220666
+  
+  
+Seth Hall 5859.49 879587254051
+  
+  
+Jane Proffitt 1188.39 198593384016
+  
+  
+Joseph Green 8395.79 386152786578
+  
+  
+Helen Macias 8484.84 427553258922
+  
+  
+Ruby Speer 817.49 269394453497
+  
+  
+Anita Hillebrand 2268.8 614444238977
+  
+  
+Kristine Gollier 6546.55 364034836897
+  
+  
+Mervin Lambert 9911.13 531009298081
+  
+  
+Maria Rusten 7793.53 656224081854
+  
+  
+John Yedinak 8027.09 675018605306
+  
+  
+Mary Booker 9840.39 725940671231
+  
+  
+Debra Przybyla 526.12 171859692208
+  
+  
+Susan Camilli 7078.08 264182194279
+  
+  
+Jessica Bryant 5966.26 290771434436
+  
+  
+Nicole Cancilla 1807.47 951215331188
+  
+  
+Daniel Wolfson 9975.29 800772665637
+  
+  
+Sharon Horton 8377.98 884508481259
+  
+  
+Derek Hill 3179.87 840640914744
+  
+  
+Jason Nilsen 2406.51 698670327820
+  
+  
+Art Marshall 2234.08 922294573351
+  
+  
+Virginia Sessions 2413.87 478849271999
+  
+  
+Scott Kofford 9205.94 429859007491
+  
+  
+Shavonne Miller 7079.89 568702076715
+  
+  
+Barbara Boldt 3089.66 725624718534
+  
+  
+Sandra Jaillet 1779.0 245510169094
+  
+  
+Helen Russell 939.08 671946592458
+  
+  
+Thomas Hernandez 6734.93 151200838063
+  
+  
+Ophelia Martinez 6742.03 957997713624
+  
+  
+William Seaman 7116.31 761051130307
+  
+  
+Willis Olson 3925.53 757619773054
+  
+  
+Rita Clark 7466.57 254611475111
+  
+  
+Brandy Frede 2906.68 496011273534
+  
+  
+Timothy Montanez 8885.76 538428513559
+  
+  
+Rita Lodge 177.24 462786793651
+  
+  
+Dwight Hansen 1024.03 528551318103
+  
+  
+Hope Cartwright 3821.88 186355301391
+  
+  
+Jane Bennett 4703.73 371142522036
+  
+  
+Alyssa Watkins 1466.23 396378613854
+  
+  
+Karon Jennings 6350.58 811468456305
+  
+  
+Maria Goad 2051.89 699658936207
+  
+  
+Bea Johnson 7634.05 692884621097
+  
+  
+Gregory Jimenez 4815.58 901842616318
+  
+  
+Joseph Davis 2034.61 885851100003
+  
+  
+Thomas Holmes 5541.32 174520651485
+  
+  
+Karl Bylsma 9184.42 111731318883
+  
+  
+Dane Panzarino 7784.37 838186955329
+  
+  
+Krystyna Harmon 5683.7 614160471840
+  
+  
+Ronald Barnes 4418.62 193783805632
+  
+  
+Christopher Gonzalez 4585.22 708118043393
+  
+  
+Kimberly Welch 6467.84 910967199894
+  
+  
+Kristi Magnall 493.13 600841039708
+  
+  
+David Cortez 7801.52 811855582018
+  
+  
+Rodney Goodwin 3512.64 757453448139
+  
+  
+Virginia Hughes 6793.59 280492677225
+  
+  
+Josefina Potter 721.02 608368862382
+  
+  
+Laurie Dyer 8391.96 383164032188
+  
+  
+Kimberly Anderson 7955.58 600607178463
+  
+  
+Larry Marinaccio 1840.56 155554101386
+  
+  
+Kristi Davis 6537.85 273183747991
+  
+  
+Helen Przygocki 4122.56 572550761781
+  
+  
+Angela Jansen 8052.51 863388840695
+  
+  
+Ramon Hardy 5743.57 344105497086
+  
+  
+John Aquino 4881.08 310664987707
+  
+  
+Ila Chavez 4412.05 303679178312
+  
+  
+James Arellano 5669.44 171242365376
+  
+  
+Sandra Brehm 6406.71 604564880146
+  
+  
+Tracy Clawson 6251.81 684112763289
+  
+  
+Brian Santiago 9249.55 419230134023
+  
+  
+Ralph Odom 2820.67 688401602994
+  
+  
+Raul Perez 7108.09 608289212739
+  
+  
+William Davis 4235.04 579837136346
+  
+  
+Petra Detrolio 7544.94 534912813132
+  
+  
+Lavern Rivera 9122.4 400639021433
+  
+  
+Janet Bennett 119.48 477489696340
+  
+  
+James Schlaefli 1245.64 898472175303
+  
+  
+Thomas Gill 3364.24 122593875734
+  
+  
+Elaine Sandvik 2886.13 312975578914
+  
+  
+Elizabeth Ruch 9779.48 478529370196
+  
+  
+Dorothy Tye 3727.17 754299496355
+  
+  
+Troy Correll 8679.47 128818912947
+  
+  
+Brenda Parrish 6416.84 469809880465
+  
+  
+Sandra Carroll 4377.91 124809065350
+  
+  
+Albert Mckelvey 9517.87 178602779357
+  
+  
+Michael Garner 77.33 681978595452
+  
+  
+Antonio Sanders 9695.09 399722780812
+  
+  
+Valerie French 2894.0 807464512555
+  
+  
+Sandra Gregoire 3069.82 958753040983
+  
+  
+Margaret Mccann 7712.28 768805594356
+  
+  
+Diana Brewster 2295.51 960834377185
+  
+  
+Carol Bellamy 3870.83 824864593291
+  
+  
+Sandra Golden 5272.12 193396963442
+  
+  
+Shirley Romero 5180.27 524056435394
+  
+  
+John Holcomb 1426.78 808083150469
+  
+  
+Herbert Ruzich 8982.5 616469013878
+  
+  
+Margaret Freed 8948.78 753428449734
+  
+  
+Anjelica Williams 9567.0 132949663702
+  
+  
+Carol Wilson 9156.79 646191664851
+  
+  
+Ronald Bravo 3349.46 388876930826
+  
+  
+Sung Brown 8220.86 799407578160
+  
+  
+Kenneth Brooks 5421.88 978810335879
+  
+  
+Jackie Warren 4102.14 176701461495
+  
+  
+Kathy Umbaugh 9235.82 982232118825
+  
+  
+Jessie Garcia 6192.75 527171553106
+  
+  
+Ryan Degasparre 4414.92 720205551956
+  
+  
+Linda Fass 7321.43 937326161909
+  
+  
+Brittney Shannon 5674.27 202538663569
+  
+  
+Enrique Hunt 720.71 922309832318
+  
+  
+Susan Chisholm 9507.17 958492216284
+  
+  
+Karen Nast 1965.4 359587463999
+  
+  
+Mabel Cargile 1276.27 462171832396
+  
+  
+Craig Durham 6922.33 217200473650
+  
+  
+Roberto Parish 4741.73 820958557894
+  
+  
+Heather Allen 8428.99 172426411505
+  
+  
+Melinda Price 7384.24 411426288604
+  
+  
+Virginia Rubio 3863.24 424606715470
+  
+  
+Tammy Reese 122.89 778196329545
+  
+  
+Patricia Veras 2521.21 676412876159
+  
+  
+John Rabenold 4640.69 557238154169
+  
+  
+Mary Smith 5385.6 523200496250
+  
+  
+Charity Corvera 7437.24 145687185994
+  
+  
+Kim Hobson 8391.39 518501379948
+  
+  
+Marsha Simms 1416.95 315388676947
+  
+  
+Tawnya Lawrence 4080.39 357049717923
+  
+  
+Natalie Aguilar 9403.33 769532545309
+  
+  
+Kelley Anderson 3835.31 558177886305
+  
+  
+Evan King 1714.18 218423091556
+  
+  
+Beverley Bryant 2479.01 534051017702
+  
+  
+Geraldine Earing 6675.37 912504102422
+  
+  
+Jose Foley 9554.92 545617005064
+  
+  
+Johnny Wray 464.63 123234951113
+  
+  
+Darren Brandon 7163.45 181286353429
+  
+  
+Chong Collins 9492.76 594465300050
+  
+  
+Warren Campbell 952.41 326072979901
+  
+  
+Jessica Medeiros 8135.58 995529007781
+  
+  
+Eugene Sledge 9452.87 393810661465
+  
+  
+Joyce Kurtz 8017.21 182679291350
+  
+  
+Deborah Drake 3219.18 684267973681
+  
+  
+Robert Washington 9192.23 883304608434
+  
+  
+Lionel Jackson 1539.07 121306398416
+  
+  
+Jerry Rosenbaum 9874.57 593928164055
+  
+  
+Bruce Deblase 1532.33 869740372801
+  
+  
+John Mixer 4962.56 965961255799
+  
+  
+Harold Cochran 6773.31 244957138413
+  
+  
+Hazel Thornton 4616.41 329935150876
+  
+  
+Maria Rodriguez 3211.81 774171077897
+  
+  
+Cheryl Mikrot 5012.35 892810644458
+  
+  
+Stephanie Frakes 2802.32 705374507669
+  
+  
+Andre Bailey 7377.38 270405694494
+  
+  
+Estelle Lopez 9779.09 634136477600
+  
+  
+Michael Baez 4293.77 304747142640
+  
+  
+Rasheeda Gray 2973.48 319652736690
+  
+  
+Galen Frank 8704.44 314461400627
+  
+  
+Melinda Freiler 2255.29 566673224731
+  
+  
+Alice Cefalu 9807.35 249794682116
+  
+  
+Jonathan Anderson 232.04 508368825643
+  
+  
+Filiberto Mccann 830.24 556054387192
+  
+  
+Glenda Fisher 8944.83 576111649674
+  
+  
+Ronald Jimenez 6315.57 369978809809
+  
+  
+Kimberley Honda 3385.64 183492374909
+  
+  
+David Creek 8274.94 178619759727
+  
+  
+Bibi Raad 836.07 762181414657
+  
+  
+Melinda Mccleave 5084.35 410622068716
+  
+  
+Wanda Brown 388.45 186792342705
+  
+  
+Rafael Clausen 6023.77 210158765408
+  
+  
+Lynne Prach 7609.27 231408688480
+  
+  
+Russell Villagomez 1506.62 437207759302
+  
+  
+James Williams 8522.5 416377579489
+  
+  
+Carla Evans 3076.73 487134602185
+  
+  
+Blaine Pelkey 5031.46 218399745519
+  
+  
+Matthew Goodner 8296.11 811651680577
+  
+  
+Claudette Williams 9937.63 842456510811
+  
+  
+Wesley Young 169.17 562383378645
+  
+  
+Maile Twitchell 2641.73 541613300056
+  
+  
+Jimmy Robinson 8910.96 902590108068
+  
+  
+Amanda Shannon 317.05 621482202681
+  
+  
+Katherine Chavez 8297.61 964407754092
+  
+  
+Joseph Godine 6968.53 388810328663
+  
+  
+William Barth 5221.27 638884850309
+  
+  
+Mary Rodriguez 1015.5 399408832000
+  
+  
+Kiley Arnold 1570.18 962581957467
+  
+  
+Richard Reid 7643.85 414271410024
+  
+  
+Ada Castello 6850.06 360513209423
+  
+  
+James Ye 7897.76 157446773260
+  
+  
+Amy Hopkins 6234.55 997177100982
+  
+  
+Joan Vega 3381.39 903964471315
+  
+  
+William Richardson 8561.09 133019102523
+  
+  
+Glenna Hanson 7805.83 500008122148
+  
+  
+Nicholas Smith 5714.42 922844027956
+  
+  
+Mildred Howarth 4998.76 696917359719
+  
+  
+Leon Hart 4091.82 603325038941
+  
+  
+Dorothy Simmons 2932.14 563399227646
+  
+  
+David Schiano 5384.37 904094949856
+  
+  
+Larry Williams 4521.44 728526379694
+  
+  
+Josephine Ashmore 4985.04 537287856730
+  
+  
+Jamal Huston 2004.27 644103050701
+  
+  
+Leslie Johnson 6609.43 122734325149
+  
+  
+Stephen Curtin 2013.38 121232479822
+  
+  
+Ann Peterson 4800.59 705552323141
+  
+  
+Rosa Roby 2229.47 475749413889
+  
+  
+Thomas Lovell 731.18 219595212654
+  
+  
+Karen Espinoza 6684.22 425379317684
+  
+  
+Bruce Stack 8107.25 790089621654
+  
+  
+Lupe Kinde 7112.42 524764157318
+  
+  
+James Cooper 5973.58 452585954573
+  
+  
+Jodi Foster 4169.81 812356213675
+  
+  
+Jessica Hilde 6557.18 497289739581
+  
+  
+William Evans 3878.4 643468583155
+  
+  
+Holly Crawford 9473.32 253456368863
+  
+  
+Ryan Canning 2653.77 487610663826
+  
+  
+Shana Gravina 2020.11 579847566282
+  
+  
+Lydia Bonds 1293.52 719241729636
+  
+  
+Joshua Bundren 2578.87 411037544067
+  
+  
+Yung Rouse 5142.83 450216074659
+  
+  
+Susan Warner 3172.44 261274339620
+  
+  
+Shirley Davis 3388.51 551229325239
+  
+  
+Ann Singh 8195.27 671003816002
+  
+  
+Peggy Haugen 2725.8 880995970147
+  
+  
+John Verdugo 6409.25 969700489194
+  
+  
+Luke Horvath 217.73 693825119636
+  
+  
+Dorothy Salgado 8488.86 666291907280
+  
+  
+Donald Pinkston 8006.16 694647526974
+  
+  
+Emma Tsai 4188.16 822110353113
+  
+  
+Angela Enge 3699.25 719695947164
+  
+  
+Sandra Schechter 9259.19 189343592877
+  
+  
+Marion Mccandless 4964.97 995054125876
+  
+  
+James Siegel 1833.27 181242267919
+  
+  
+Paul Martinez 6336.61 684021620927
+  
+  
+Virginia Fontaine 9355.24 189052161918
+  
+  
+Nicole Craig 1218.87 786211154624
+  
+  
+James Diaz 577.71 966945400205
+  
+  
+Frank Boucher 4601.88 609160041434
+  
+  
+Joann Thomas 1277.87 200087697323
+  
+  
+Reuben Gibson 533.98 319265405462
+  
+  
+Justine Marshall 3093.32 278830666197
+  
+  
+Richard Egnew 7871.74 881927407241
+  
+  
+Kayla Bragg 2990.18 398021971552
+  
+  
+Jessie Self 8446.78 764588436603
+  
+  
+Lola Clay 318.82 641197037118
+  
+  
+Sara Sanders 6043.32 185015013364
+  
+  
+Rosa Richards 6895.04 381991022682
+  
+  
+Janette Johns 1241.39 527559409555
+  
+  
+Melinda Beacom 1690.64 706287451829
+  
+  
+James Jackson 2772.11 504060738077
+  
+  
+Tom Davis 5095.86 281896691891
+  
+  
+Abel Reinhardt 4953.86 300182786154
+  
+  
+Tammy Rodriguez 3867.51 556760357849
+  
+  
+Tajuana Formica 4340.54 773946572504
+  
+  
+Scott Harlow 1673.53 270577864362
+  
+  
+Walter Horton 5680.38 611183029803
+  
+  
+Abraham Bushnell 490.03 240185637633
+  
+  
+Charles Schwarz 3936.63 919615782980
+  
+  
+Robert Watts 7933.23 417733577546
+  
+  
+Hilde Torres 8941.88 460483562570
+  
+  
+Bradley Alway 1923.68 231428167670
+  
+  
+Teresa Burchfield 8561.4 314954237856
+  
+  
+Mary Shulz 2169.97 901779108633
+  
+  
+Vickie Carlson 3614.53 365907080953
+  
+  
+Joanne Despain 8749.13 918697532545
+  
+  
+Anthony Smith 351.63 129845930306
+  
+  
+Geraldine Butcher 1821.44 433938629478
+  
+  
+Eunice Culp 3785.23 937280109435
+  
+  
+Hazel Taormina 2847.8 114697609362
+  
+  
+Kevin Ford 3259.82 412025086212
+  
+  
+David Groves 5872.78 418366215755
+  
+  
+Hazel Szaflarski 6686.07 455494838741
+  
+  
+Laticia Jung 744.84 137754454706
+  
+  
+Elmer Burke 1834.47 189272877232
+  
+  
+Patricia Reynolds 7071.9 391214938916
+  
+  
+Barry Anderson 1302.3 611502242026
+  
+  
+Joseph Shoop 8031.74 129189713705
+  
+  
+Mary Cartagena 4133.42 837468131949
+  
+  
+Jeremy Coberly 8871.58 673481072299
+  
+  
+Marcus Snell 1902.77 717112897407
+  
+  
+Vernon Hand 9937.94 412891930062
+  
+  
+Andre Winters 305.0 756436707031
+  
+  
+Felton Gentile 668.49 463679024653
+  
+  
+Amos Dacosta 8131.99 186028162197
+  
+  
+Linda Simmons 9553.09 206643597167
+  
+  
+Donna Robles 3672.5 418717950405
+  
+  
+Louis Tarleton 9154.28 525131604741
+  
+  
+Barbara Whelan 5210.91 461538379382
+  
+  
+Meg Sheppard 7295.2 320054929526
+  
+  
+Jacqueline Michaud 826.82 517206150673
+  
+  
+Harold Goldberg 1712.18 797855866283
+  
+  
+Pat Schmitz 1305.33 394814012317
+  
+  
+Julie Moffatt 2987.95 993454559369
+  
+  
+August Rothwell 2048.43 292427813473
+  
+  
+Jonathan Leatherman 9973.59 551263590560
+  
+  
+Derek Schley 110.61 601478609413
+  
+  
+Alan Barron 2654.84 212986933547
+  
+  
+Joyce Stilwell 8504.0 371715953421
+  
+  
+Paul Casey 3040.76 197866690301
+  
+  
+Eric Thompson 345.55 242743692664
+  
+  
+Gary Smith 7610.91 142545808133
+  
+  
+John Johnson 5210.58 236725026368
+  
+  
+Williams Nichols 9777.67 322769086128
+  
+  
+Jack Campbell 2385.5 504123091650
+  
+  
+William Wheeler 8134.64 336695990958
+  
+  
+Hugh Lawrence 5359.13 299727421872
+  
+  
+Donna Ross 5081.69 770058859637
+  
+  
+Hazel Mcdougal 9638.01 659350173279
+  
+  
+Lorena Elmore 4834.83 638736557894
+  
+  
+Johnny Feldman 9517.76 467222906905
+  
+  
+Valerie Bond 3129.14 726435999496
+  
+  
+Randy Lopez 7654.93 600568820545
+  
+  
+Brian Marusak 9173.76 362437786195
+  
+  
+Rosetta Cherry 2667.22 241910601516
+  
+  
+Donna Holmes 837.29 766813375587
+  
+  
+Donald Budzynski 1052.13 528757218888
+  
+  
+Maria Flower 6428.81 967792346825
+  
+  
+Leah Boshard 698.61 466074556311
+  
+  
+Beatrice Stevenson 181.91 309119131962
+  
+  
+Matthew Looney 9298.99 197861242278
+  
+  
+Joshua Rueda 9899.9 794155620961
+  
+  
+Julie Thomas 4822.48 521250953271
+  
+  
+Jodee Brandon 979.91 308868111119
+  
+  
+Sandra Lewicki 3918.14 439958842382
+  
+  
+Lacey Schlager 8327.47 808073810121
+  
+  
+David Wilkinson 7181.02 323147920764
+  
+  
+William Johnston 3897.79 392341357351
+  
+  
+Celestine Kirk 4818.49 297288926805
+  
+  
+Harvey Castro 1588.68 712663032003
+  
+  
+Robert Mann 6756.59 187799336628
+  
+  
+Virginia Aviles 3686.32 947290181265
+  
+  
+Donna Tucker 5739.18 862338664258
+  
+  
+Margaret Leary 7276.33 565016448111
+  
+  
+Lillian Soto 9759.69 890835796963
+  
+  
+Jeff Pittman 4945.45 761072927078
+  
+  
+Robert Rector 13.83 977100004130
+  
+  
+Barbara Aviles 366.31 127957532007
+  
+  
+Terry Creech 1601.81 441917459903
+  
+  
+Jefferson Suarez 5667.05 693121163664
+  
+  
+Stephanie Lee 7208.53 480805733411
+  
+  
+Dorothy Brenton 7450.32 211918232410
+  
+  
+Minnie Ray 3163.37 735616374009
+  
+  
+Olivia Maio 7448.59 243266809779
+  
+  
+Kathleen Salazar 780.14 733215882009
+  
+  
+Laverne Mooney 6088.37 654178305123
+  
+  
+Maria Shaeffer 1852.16 909868333362
+  
+  
+Marilyn Johns 2501.49 486380573314
+  
+  
+John Large 2647.14 780752847172
+  
+  
+Sarah Newton 3301.87 666053029746
+  
+  
+Octavio Hawks 3766.42 791086570730
+  
+  
+Lorraine Pearce 3997.47 548038108168
+  
+  
+Nilda Wynn 6717.94 762392820134
+  
+  
+Lynn Nelson 8227.47 908776159744
+  
+  
+Robert Southall 9301.16 431713895293
+  
+  
+Janet Jones 9571.98 623501626996
+  
+  
+Oscar Parente 7230.72 339268844346
+  
+  
+Lesley Johnson 4183.68 792832207089
+  
+  
+Genevieve Garcia 8246.59 333206389641
+  
+  
+Richard Scribner 2571.81 657971069347
+  
+  
+Ray Blake 6785.74 305844446524
+  
+  
+Arthur Na 781.11 853210254788
+  
+  
+Michael Campbell 5858.8 430339437947
+  
+  
+Jennifer Harris 8252.02 568424927913
+  
+  
+Susana Webb 5838.62 725795621617
+  
+  
+Leo Nicholson 8488.37 391347313387
+  
+  
+Brad Davis 4991.02 608990744791
+  
+  
+Joan Lovelace 1211.87 246963351576
+  
+  
+Lucy Bond 4194.86 130924767181
+  
+  
+Franklyn Bouldin 3960.31 224571252399
+  
+  
+Kimbery Lay 2913.89 213730054979
+  
+  
+Kimberly Tomas 8150.51 600156410351
+  
+  
+Lucia Mccarthy 1284.93 537757660340
+  
+  
+Shawn Lynch 1622.34 284735502841
+  
+  
+Ruby Covert 1694.87 409211131071
+  
+  
+Elvis Wyant 1184.4 983537603511
+  
+  
+James Inouye 6041.37 550815045716
+  
+  
+Carl Austin 9555.29 604794899393
+  
+  
+Thomas Evans 9672.47 470499353307
+  
+  
+Mary Simpson 1083.59 425407704221
+  
+  
+Virginia Gonzalez 3210.29 743402439223
+  
+  
+Frances John 3635.53 689754868050
+  
+  
+Helen Root 2001.86 198660207721
+  
+  
+Elva Small 7555.03 208860677744
+  
+  
+Meredith Osborne 2593.53 188882384050
+  
+  
+Bryan Sumpter 4900.96 340910843234
+  
+  
+Brian Moore 1411.48 424082273027
+  
+  
+Elda Iannone 9212.02 318396929154
+  
+  
+Blake Pennachio 6825.25 695742071980
+  
+  
+Sara Wilson 4391.77 796159751534
+  
+  
+Hazel Smith 805.04 504718476899
+  
+  
+David Morgan 5107.59 400172625300
+  
+  
+Kara Aldridge 594.89 570745372898
+  
+  
+Nicole Cagle 5937.28 294043629002
+  
+  
+Tami Rangel 1403.65 398103398993
+  
+  
+Cecil Dobbins 4534.75 490813728062
+  
+  
+Jessica Krause 5299.03 977371287278
+  
+  
+Adele Thompson 2424.78 442889943942
+  
+  
+Alex Young 5347.03 490313493108
+  
+  
+Helene Quintana 7129.19 862804356867
+  
+  
+Veronica Burnham 5962.87 910012062652
+  
+  
+Sabrina Hall 4642.86 714124266834
+  
+  
+Geneva Rahman 4493.94 189114405746
+  
+  
+Dinah Lane 7289.18 751681777479
+  
+  
+Katherine Lado 224.92 511374416218
+  
+  
+Eileen Johns 5202.26 451457927007
+  
+  
+Lisa Constantini 3606.75 988315021017
+  
+  
+Ruby Miller 7733.32 749705407865
+  
+  
+Alice Nelson 8171.0 944393250026
+  
+  
+Jean Kempf 1827.3 373907865206
+  
+  
+Lucy Blackwood 4891.2 968923951435
+  
+  
+Edward Allen 9887.05 951268714898
+  
+  
+Carmen Seawood 9133.07 974667129642
+  
+  
+Mildred Clark 3766.8 648831104473
+  
+  
+Kelvin Wright 6583.05 299949119145
+  
+  
+Consuelo Sawyer 5016.59 896715810681
+  
+  
+Gary Bromley 9760.27 716510097066
+  
+  
+Ruth Hysom 4582.9 538208369281
+  
+  
+William Yodis 395.05 795384929622
+  
+  
+James Jimenez 5165.6 267952726296
+  
+  
+Martha Deck 1622.27 882980871352
+  
+  
+Joshua Curran 5105.81 220387884158
+  
+  
+Delores Devotie 1668.47 484035332281
+  
+  
+Evan Greis 10.36 235651771548
+  
+  
+Eric Vaughn 8945.64 687540634204
+  
+  
+Glen Bernardy 249.73 478452339146
+  
+  
+Michael Kane 6769.33 726654330881
+  
+  
+Noella Lattea 9643.09 549680032709
+  
+  
+Teresa Spader 3571.25 335412219991
+  
+  
+Steven Campbell 8587.73 605409601044
+  
+  
+Robert Boucher 8269.5 179312612148
+  
+  
+Robert Miller 2098.62 140091453627
+  
+  
+John Israel 3348.49 118743526919
+  
+  
+Rick Favila 1248.79 185638687158
+  
+  
+Joe Cartwright 6416.22 521620990179
+  
+  
+Amber Mcghee 3059.52 266943127478
+  
+  
+James Waterman 5468.79 985397114487
+  
+  
+Shannon Russ 3878.57 317819746410
+  
+  
+Mark Farnes 8821.28 969398433256
+  
+  
+Sacha Noble 7249.43 968152535751
+  
+  
+Ora Burr 5931.99 632421742058
+  
+  
+Gina Chew 1264.93 982211244608
+  
+  
+Michael Kappel 9810.88 661731175295
+  
+  
+Rosio Janssen 3435.76 634005634020
+  
+  
+John Bielecki 7799.09 580447068543
+  
+  
+Daniel Hancock 4447.72 239404847906
+  
+  
+Roland Brase 3575.83 873734014536
+  
+  
+Frances Pinkerton 7122.8 735061831992
+  
+  
+Ruth Gilbert 6821.57 789679285639
+  
+  
+Pamela Ramsey 4193.7 922312477648
+  
+  
+James Skidmore 8524.46 920717720636
+  
+  
+Jon Trexler 8547.81 774196857609
+  
+  
+Cheryl Navarro 9814.88 412324972380
+  
+  
+Terry Roberts 908.41 469469061804
+  
+  
+Dominick Goldman 2588.62 204104791484
+  
+  
+Scott Terrell 2495.13 253833365270
+  
+  
+Adam Worley 1100.9 263741009554
+  
+  
+Robert Matier 2025.9 837772398615
+  
+  
+Clinton Flanagan 1763.98 804950079160
+  
+  
+Susan Johnson 93.16 518822254305
+  
+  
+Lisa Kroells 6672.83 325941583567
+  
+  
+Michele Dolejsi 767.0 968354388365
+  
+  
+William Brinson 4184.72 679519699989
+  
+  
+Dane Cinotto 8654.65 237251991435
+  
+  
+Brenda Durant 5536.52 186295878007
+  
+  
+Celeste Fulmer 40.18 612036821175
+  
+  
+Betty Vineyard 1916.7 834791585802
+  
+  
+Margaret Finger 3734.13 486965506907
+  
+  
+Marion Cook 2859.29 680003459303
+  
+  
+Robert Brown 8474.83 533587442582
+  
+  
+Donna Fettig 1010.47 818196994665
+  
+  
+Tina Tillman 7182.69 932745853418
+  
+  
+Michal Johnson 9191.79 734468074943
+  
+  
+Pamela Fox 7877.31 186940174719
+  
+  
+Joan Bates 5515.95 434476280132
+  
+  
+Sherry Mudd 3916.08 367944797374
+  
+  
+Jennifer Jeffrey 3468.89 463534832239
+  
+  
+Amy Samford 5973.61 160040650904
+  
+  
+Anthony Hopper 9714.31 655660818975
+  
+  
+Angel Crawford 3515.05 837104801153
+  
+  
+Leo Howell 9228.24 877790701329
+  
+  
+Carolyn Bascomb 4969.78 262135522134
+  
+  
+Marsha Moore 9812.67 218317505255
+  
+  
+Elizabeth Williamson 6140.97 630333159491
+  
+  
+Carlos Tuttle 6663.3 756268459966
+  
+  
+Brendan Kilbourn 6462.3 229521765683
+  
+  
+William Rogers 3120.06 976123978203
+  
+  
+Louise Blackburn 5334.22 163431269323
+  
+  
+Lorine Hanson 2109.73 907075578762
+  
+  
+Tuyet Shreve 4653.3 156269371413
+  
+  
+Nicole Larose 3990.64 913081781006
+  
+  
+Samuel Lorge 9295.39 654391302031
+  
+  
+Arnold Guenther 6517.67 621399216273
+  
+  
+Maude Berube 5748.3 459541445145
+  
+  
+Nancy Pooler 4896.34 507263708553
+  
+  
+John Mcmahon 1720.73 269603249158
+  
+  
+Bruce Lyon 1969.44 853706719714
+  
+  
+Robert Jefferis 1562.24 993613050949
+  
+  
+Carolyn Mead 8794.36 149398988166
+  
+  
+Robert Johnson 8851.9 952059976532
+  
+  
+Cindy Jones 2203.9 865450389453
+  
+  
+Lawrence Frazier 4111.55 746733510966
+  
+  
+Roger Lynch 9656.92 539662755553
+  
+  
+Jennie Banister 9798.92 990758445570
+  
+  
+Reta Penn 6875.6 570867620750
+  
+  
+Lucy Fields 4711.19 858998738020
+  
+  
+Lisa Antonelli 3413.68 221167789004
+  
+  
+Jordan Peterson 6433.46 334796298472
+  
+  
+George Comer 8547.65 168378702767
+  
+  
+Janice Rodriguez 8005.13 891144024295
+  
+  
+Raymond Ownby 3676.7 858402781937
+  
+  
+Lena Robinson 846.14 669087988966
+  
+  
+Amanda Dailey 861.4 305027326891
+  
+  
+Burma Hernande 5894.66 305157699346
+  
+  
+Ines Song 7377.19 692794959599
+  
+  
+Carole Smith 1342.6 822429079253
+  
+  
+Zachary Rubio 1221.97 765949867582
+  
+  
+Nellie Nii 6595.99 829028204673
+  
+  
+Jennifer Richter 3220.75 335680117013
+  
+  
+Robert Larson 2662.65 254890299732
+  
+  
+Michael Williams 4773.92 677672213945
+  
+  
+Lavon Olmstead 5241.96 457338624311
+  
+  
+Carol Toppa 2081.14 447497194359
+  
+  
+John Janelle 5165.07 645114265132
+  
+  
+Juan Martin 6346.42 447883505932
+  
+  
+Kathleen Addison 9952.76 425581071519
+  
+  
+Brenda Lombard 1573.72 596414545092
+  
+  
+Susan Cousin 4183.37 773960678754
+  
+  
+Anna Spurgeon 4275.6 936357112680
+  
+  
+Gregory Anglen 9398.58 975171872767
+  
+  
+Irene Ross 686.7 741931683874
+  
+  
+Timothy Porras 4264.04 573298202848
+  
+  
+Joshua Garrett 7604.99 247187349242
+  
+  
+Margaret Mcgee 2004.75 703237350496
+  
+  
+Glenda Hadsell 7763.83 662129411433
+  
+  
+James Fischetti 2186.47 748262017908
+  
+  
+Elizabeth Goldie 9709.09 949724707942
+  
+  
+Michael Elderidge 5062.33 173804986279
+  
+  
+Kimberly Burns 7811.84 198472505564
+  
+  
+Richard Wells 2861.29 841931018541
+  
+  
+Roderick Tran 1811.17 121919682192
+  
+  
+Beverly Coleman 8809.5 983310519977
+  
+  
+Daniel Holm 614.84 891104263708
+  
+  
+Jerome Davis 430.84 705970534491
+  
+  
+Raymond Neely 8074.24 785938173811
+  
+  
+Tammi Anderson 3869.74 200099639810
+  
+  
+Alice Bavaro 6253.05 487511361983
+  
+  
+Daniel Worthy 8934.06 876255967624
+  
+  
+Arturo Lyon 3766.91 272654536560
+  
+  
+Tammy Petty 6646.2 895890752267
+  
+  
+Maria Brown 1402.77 709749489303
+  
+  
+Evelyn Boldt 6244.87 942578965604
+  
+  
+Elizabeth Worley 1977.57 187227862483
+  
+  
+Nancy Richardson 8666.59 565149492286
+  
+  
+Timothy Roane 9688.63 425094405043
+  
+  
+Kenneth Blankenship 1015.74 477638542752
+  
+  
+Mae Epstein 7236.79 201326017559
+  
+  
+Leisa Richards 1412.47 763403149895
+  
+  
+Raymond Cross 2993.05 159085102051
+  
+  
+Larry Yount 615.5 176183563690
+  
+  
+Isabell Ramirez 2064.18 129791052972
+  
+  
+Gary Cole 7677.31 368220895470
+  
+  
+Wan Verhoeven 300.93 159383766222
+  
+  
+Harry Junkin 2301.66 944381117137
+  
+  
+Marvin Chandler 3693.41 993004084157
+  
+  
+Ebony Fernandez 2995.9 111784429519
+  
+  
+Annette Doung 8266.32 522154783212
+  
+  
+Edward Holder 53.61 229168722602
+  
+  
+Junior Robinson 8510.28 741641284480
+  
+  
+David West 5523.52 526316761669
+  
+  
+Delmar Flynn 8881.36 896605156766
+  
+  
+John Rodriguez 8739.95 699020108298
+  
+  
+Rosalind Deslauriers 7874.25 572237987532
+  
+  
+David Goode 5542.97 786835274555
+  
+  
+Donnie Grant 1688.95 298376642885
+  
+  
+Emory Perry 6783.24 835674661217
+  
+  
+Forest Price 3072.91 516772901061
+  
+  
+Donald Tolentino 2882.18 635603847665
+  
+  
+Ruby Drummond 5924.34 476144843856
+  
+  
+Susan Moore 9319.96 392404492175
+  
+  
+Laura Tooks 4498.07 990801389574
+  
+  
+Jenifer Wagner 7191.21 228419566515
+  
+  
+Ruben Renner 5209.6 350987220044
+  
+  
+Marjorie Tefft 9656.45 691173575143
+  
+  
+Linda Pearson 433.11 508005813374
+  
+  
+Steven Jording 2480.25 343171429415
+  
+  
+Jose Nelson 5436.3 631752533861
+  
+  
+Marcus Yielding 7491.3 527011593884
+  
+  
+Christopher Simmons 2484.72 527897740045
+  
+  
+Karla Cass 3914.41 802127916933
+  
+  
+Robert Wilhelm 5389.13 706302744584
+  
+  
+Sheila Conaughty 4795.95 521033009509
+  
+  
+Betty Haig 972.09 184858801363
+  
+  
+Richard Daniels 4725.9 787206068081
+  
+  
+Pedro Unger 6598.99 678261940544
+  
+  
+Gregory Sanchez 5518.73 752562908391
+  
+  
+Robert Klett 504.65 893510143944
+  
+  
+Grace Wells 4002.08 864116172188
+  
+  
+Yadira Moreno 6704.4 946561662963
+  
+  
+James Burr 2569.18 556861770154
+  
+  
+Rachel Johnson 8554.42 893665352584
+  
+  
+Claudette Evans 4713.81 374112631676
+  
+  
+William Robertson 3309.85 973408821414
+  
+  
+Darren Fisher 616.75 971458960432
+  
+  
+George Law 8015.73 184788298434
+  
+  
+Mayra Barnett 9271.23 732110371731
+  
+  
+Francis Peard 2114.85 668016205067
+  
+  
+Ethel Taylor 8106.21 688018484794
+  
+  
+Billy Jeffrie 7109.51 302452021715
+  
+  
+Beatrice Starr 9512.78 816585330633
+  
+  
+Rene Jones 775.19 518893847132
+  
+  
+Judith Clowney 3469.42 483328194361
+  
+  
+Brittany Bercegeay 1212.04 795630311073
+  
+  
+Teresa Bright 1654.92 717829528146
+  
+  
+Steven Biggs 5382.33 635542939409
+  
+  
+Lucy Burwell 478.73 468474748215
+  
+  
+Tara Nelson 1196.95 354530964040
+  
+  
+John Flood 9820.38 790434406370
+  
+  
+Rose Black 3315.5 728518580972
+  
+  
+Kim Dunn 1410.13 976688766362
+  
+  
+Mary Montes 2384.56 696232865390
+  
+  
+James Dillon 1709.6 457524784380
+  
+  
+Bernard Seifert 9511.98 629792212049
+  
+  
+Georgianne Leffert 116.58 851927924539
+  
+  
+Roberto Andrews 8413.63 333735453811
+  
+  
+Sue Christopher 5998.88 331929615297
+  
+  
+Kristine Fobes 5723.02 683208594397
+  
+  
+John Gonzalez 52.6 493292031619
+  
+  
+Carmen Shriver 1423.9 849918672903
+  
+  
+John Chance 169.32 299824082126
+  
+  
+Joseph Barnett 669.67 152082243642
+  
+  
+Concepcion Garton 2113.48 236974415427
+  
+  
+Barbara Reyna 5857.86 745602031427
+  
+  
+Dustin Penix 6348.72 418265544747
+  
+  
+Nicholas Hargrove 6010.48 832577237354
+  
+  
+Christina Tolman 4265.9 807520620654
+  
+  
+Kristina Buresh 2512.66 674504063348
+  
+  
+Philip Pantoja 7475.8 780944513861
+  
+  
+Carey Cultice 5653.17 778420312509
+  
+  
+Enrique Jules 1561.39 582082176155
+  
+  
+Emmett Solari 4423.54 786481115141
+  
+  
+Jerry Winslow 2949.91 722372776970
+  
+  
+Michelle Bell 7241.49 139685677368
+  
+  
+Kathleen Whelan 9435.52 553468317766
+  
+  
+Sonya Smith 9707.5 667138561394
+  
+  
+Douglas Bisarra 2050.63 277615531413
+  
+  
+Charlyn Elam 5456.57 870502448616
+  
+  
+Angel Bennett 522.76 627404931302
+  
+  
+Matthew Burt 5076.03 248803377446
+  
+  
+Elizabeth Negrete 93.95 161564381803
+  
+  
+Daniel Wansley 6200.99 737238469948
+  
+  
+Alice Torres 3891.8 624301758244
+  
+  
+Theresa Parsons 3960.16 146449051291
+  
+  
+James Hill 7703.94 875365900699
+  
+  
+Sharon Davis 4689.24 722112664980
+  
+  
+Robert Short 2198.1 272375736402
+  
+  
+Carl Guerra 1529.84 706003667782
+  
+  
+Brian Thomas 6976.49 875339904185
+  
+  
+Harold Carson 4338.28 168386186414
+  
+  
+Neil Summey 9472.8 216470838014
+  
+  
+Jerry Larkin 2831.52 551541024774
+  
+  
+Kimberly Davis 4223.27 318074105008
+  
+  
+Dale Conner 1231.4 152495196212
+  
+  
+Emily Hines 2408.79 750766022423
+  
+  
+Danny Weller 8669.08 224799575234
+  
+  
+Robert Huges 170.78 960946918047
+  
+  
+Paul Rosado 6005.66 293478163116
+  
+  
+Jeffrey Jenkins 504.53 787303190210
+  
+  
+Diane Hoemann 5163.71 141037221517
+  
+  
+June Pike 443.4 282162777488
+  
+  
+Katherine Breckenridge 8871.55 457991329819
+  
+  
+Stanley Spangler 963.01 356257007145
+  
+  
+Marco Gomez 902.18 303938386112
+  
+  
+Brian Porter 946.75 302318008513
+  
+  
+James Hall 8767.76 383275291819
+  
+  
+Duane Sammarco 8067.56 376040932061
+  
+  
+Ronald Hefner 8758.24 529288499346
+  
+  
+Thomas Davis 8618.65 181219035984
+  
+  
+Steven Lindenpitz 9475.09 524787237741
+  
+  
+Edward Scott 9531.25 820776925254
+  
+  
+Diane Sumpter 8809.83 749667126851
+  
+  
+Lela Turso 1942.83 476272126093
+  
+  
+Rosa Pfannenstiel 2772.99 559423835864
+  
+  
+John Foxworth 4165.89 964589495601
+  
+  
+Lillian Luna 346.91 924061530709
+  
+  
+Patrick Garman 4615.08 771756369080
+  
+  
+Ida Fulenwider 8765.29 237664061474
+  
+  
+Barbara Quiles 3710.73 877175083417
+  
+  
+Adrianne Isham 5733.81 184967698315
+  
+  
+Luis Salinas 6847.25 791781794435
+  
+  
+Ronald Gonzales 1578.12 515298647671
+  
+  
+Joseph Vernon 3235.41 849806610714
+  
+  
+Roxanne Jackson 4498.51 153551695478
+  
+  
+Rodney May 5770.23 903943268970
+  
+  
+Debbra Richardson 2378.13 217848679382
+  
+  
+Richard Nawrocki 2194.76 893537894815
+  
+  
+Tess Jeremiah 4852.74 453363236551
+  
+  
+Sandra Prothro 4045.79 241225514868
+  
+  
+Jeffrey Williams 1703.13 373796017192
+  
+  
+Edna Berland 5554.49 993088584947
+  
+  
+Maria Sova 3297.02 993796411587
+  
+  
+Jerry Hatcher 3780.55 350976593115
+  
+  
+Terry Jones 9543.61 428661539792
+  
+  
+Everett Robertson 3053.7 488708391745
+  
+  
+Edward Tarver 1753.38 278721385393
+  
+  
+George Parnell 2801.18 895165211401
+  
+  
+Sarah Amos 9976.4 950757408686
+  
+  
+Sean Guzman 3051.1 481184442957
+  
+  
+Edward Burke 3792.55 991799099670
+  
+  
+Eva Tirado 4098.91 350505035164
+  
+  
+Harold Baumgartner 3376.28 859442277889
+  
+  
+Adrienne Ingber 1460.05 585491381825
+  
+  
+Gustavo Holloway 8114.79 627889391226
+  
+  
+Judy Baker 1532.69 399046302045
+  
+  
+Anita Leach 5905.14 907440109000
+  
+  
+Raymond Camacho 6101.72 262080463913
+  
+  
+Gloria Jensen 6078.5 955806692854
+  
+  
+Virginia Ryan 8090.07 592846382593
+  
+  
+Jim Cantrell 7100.49 115998143311
+  
+  
+Jill Gross 3644.62 785153766250
+  
+  
+Mark Davis 6569.61 311961949762
+  
+  
+Heather Watson 4822.5 170383112335
+  
+  
+George Dudley 8609.03 861646301417
+  
+  
+David Jimenez 9707.91 219718361031
+  
+  
+Leslie Dieguez 2832.27 386720721890
+  
+  
+Paul Libby 8839.83 276336442471
+  
+  
+Jeffrey Chan 8080.49 764185776689
+  
+  
+Matthew Burks 8880.94 729045140207
+  
+  
+Jennifer Meraz 1569.34 417648418395
+  
+  
+Samuel Chamberlain 210.37 486206581918
+  
+  
+Joseph Booth 5968.15 879265668250
+  
+  
+Ken Grant 1944.39 522460956729
+  
+  
+Richard Johnson 2585.19 950313497088
+  
+  
+Kevin Foltz 5931.43 618184783710
+  
+  
+William Plazza 8841.45 112280634193
+  
+  
+Tonya Gose 2273.4 813301107384
+  
+  
+Tom Mcdade 2309.43 470909265152
+  
+  
+Gary Murphy 8023.7 315961610130
+  
+  
+David Field 4262.54 947447570890
+  
+  
+Gertrude Klein 4981.21 969394351245
+  
+  
+Francesca Carter 3353.07 758405274038
+  
+  
+Marcus Rosenthal 2090.5 810347570249
+  
+  
+James Hernandez 5329.2 232848149995
+  
+  
+Virginia Madore 1007.37 871884179232
+  
+  
+Elizabeth Hernandez 1824.96 226481922799
+  
+  
+James Cormier 4088.75 234829784061
+  
+  
+David Neal 6849.94 736719000170
+  
+  
+Dawn Molina 4782.06 161935215338
+  
+  
+Santiago Crockett 5784.3 316946256745
+  
+  
+Robert Owen 8236.65 180482532279
+  
+  
+Mario Morrison 448.31 526149064267
+  
+  
+Beulah Raether 3075.35 122275399577
+  
+  
+Sierra Grubb 2101.64 620966056608
+  
+  
+Gabriel Thrasher 7932.48 201053187510
+  
+  
+Annie Brown 7635.32 842849057403
+  
+  
+Steven Alford 2100.89 445245184524
+  
+  
+Michael Hubbard 7166.74 955215179740
+  
+  
+Yesenia Kilgore 8973.05 862638229781
+  
+  
+Mary Bowker 6837.53 650814106244
+  
+  
+William Presley 1904.55 549272845475
+  
+  
+Mary Cox 7542.92 492874551024
+  
+  
+Song Fenton 5711.82 849187247160
+  
+  
+Linda Harris 2481.14 975519664720
+  
+  
+Carmen Scrivener 2285.23 566899493759
+  
+  
+Melissa Smith 5712.55 673063314425
+  
+  
+Lucille Carrico 6012.75 862033988655
+  
+  
+Edmond Mayers 7918.06 966202930728
+  
+  
+Antonio Allen 7093.3 503332925449
+  
+  
+Randi Henson 8175.89 713459185399
+  
+  
+Willie Schmidt 6466.77 127143058277
+  
+  
+Theresa Smith 9744.74 512334153032
+  
+  
+Donna Nixon 7544.88 665211982112
+  
+  
+Tillie Voegele 8589.83 935325137550
+  
+  
+Rory Gregory 6668.05 727495055869
+  
+  
+Scott Jackson 1720.32 321989075072
+  
+  
+Jack Sisco 7120.87 650216069137
+  
+  
+Robert Heidebrecht 287.52 516471440496
+  
+  
+Michael Fowler 5279.02 545160586885
+  
+  
+Jeffry Gourley 5614.35 639643422260
+  
+  
+Chris Jackson 3854.41 976797764548
+  
