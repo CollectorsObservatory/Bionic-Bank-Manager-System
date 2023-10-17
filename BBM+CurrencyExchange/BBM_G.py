@@ -4,7 +4,6 @@ from ttkthemes import ThemedTk
 import webbrowser
 import datetime
 from PIL import Image, ImageTk
-import ICE
 from ICE import currency_iso_codes,available_currencies,currencies_rates_buy,currencies_rates_sell
 from PIL import Image, ImageTk
 
@@ -23,7 +22,6 @@ class BBM_GUI(tk.Tk):
 
 
     def initialize_ui(self):
-        # Split the current date and time
         current_date = datetime.datetime.now().strftime("%Y-%m-%d")
         current_time = datetime.datetime.now().strftime("%H:%M:%S")
 
@@ -52,13 +50,13 @@ class BBM_GUI(tk.Tk):
         menu_label.pack(pady=20)
 
         button_frame = tk.Frame(self, bg="white")
-        button_frame.place(relx=0.5, rely=0.4, anchor='center')  # Place frame in the center of the screen
+        button_frame.place(relx=0.5, rely=0.4, anchor='center')  
 
         button_style = {"font": self.button_font, "bg": "#D3D3D3", "fg": "#333333", "padx": 20, "pady": 10}
         btn_create_account = tk.Button(button_frame, text="Create Account", command=self.create_account, **button_style)
         btn_create_account.grid(row=0, column=0, padx=10, pady=10, sticky=tk.W + tk.E)
 
-        # ... [Rest of the button definitions and the rest of the code]
+      
 
 
         btn_create_account = tk.Button(button_frame, text="Create Account", command=self.create_account, **button_style)
@@ -93,18 +91,18 @@ class BBM_GUI(tk.Tk):
             button.bind("<Leave>", self.on_leave)
 
         # Load and place the image
-        image_path = "logo.png"  # Replace with the path to your image
+        image_path = "fin.png"  
         original_image = Image.open(image_path)
-        resized_image = original_image.resize((250, 250))
+        resized_image = original_image.resize((250, 150))
         img = ImageTk.PhotoImage(resized_image)
         img_label = tk.Label(self, image=img, bg="white")
         img_label.image = img
-        img_label.place(relx=0.5, rely=0.8, anchor='center')
+        img_label.place(relx=0.5, rely=0.75, anchor='center')
 
-        # Event binding for the image to open a link when clicked
+       
         img_label.bind("<Button-1>", self.open_link)
 
-        # Event binding for the image to open a link when clicked
+      
         img_label.bind("<Button-1>", self.open_link)
 
         # Add footer
@@ -112,12 +110,12 @@ class BBM_GUI(tk.Tk):
         footer_label = tk.Label(self, text=footer_label_text, font=("Arial", 14, "bold"), bg="white", fg="#333333")
         footer_label.pack(side=tk.BOTTOM, pady=5)
 
-        # Binding the hover and click events for the footer
+        
         footer_label.bind("<Enter>", self.footer_on_enter)
         footer_label.bind("<Leave>", self.footer_on_leave)
         footer_label.bind("<Button-1>", self.open_link)
 
-    # ... [Rest of your methods, like on_enter, on_leave, create_account, etc.]
+    
 
 
         
@@ -129,13 +127,13 @@ class BBM_GUI(tk.Tk):
         e.widget['background'] = '#D3D3D3'  # LightGray color
         e.widget['fg'] = '#333333'  # Dark gray text
 
-    # ... [Your other methods like create_account, deposit_money, etc.]
+    
 
     def footer_on_enter(self, e):
-        e.widget['fg'] = '#8a2be2'  # Purple color for hover
+        e.widget['fg'] = '#8a2be2'  
 
     def footer_on_leave(self, e):
-        e.widget['fg'] = '#333333'  # Original color
+        e.widget['fg'] = '#333333'  
 
     def open_link(self, event):
         webbrowser.open("https://github.com/CollectorsObservatory")
@@ -221,7 +219,7 @@ class BBM_GUI(tk.Tk):
         """Method to display data from accounts.txt"""
         with open("accounts.txt", "r") as file:
             accounts_data = file.read()
-        # Display the data in a top-level window (or any other way you want)
+
         view_accounts_window = tk.Toplevel(self)
         view_accounts_window.title("All Accounts")
         view_accounts_window.geometry("600x400")
@@ -331,7 +329,7 @@ def open_link(self, event):
 
 # Instantiate and run the main loop
 if __name__ == "__main__":
-    app = BBM_GUI(None)  # Pass in the bank manager instance here
+    app = BBM_GUI(None)  
     app.mainloop()
 
     
