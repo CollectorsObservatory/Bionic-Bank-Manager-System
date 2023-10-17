@@ -1,7 +1,7 @@
 import random
 import os
 
-from BBM_G import BBM_GUI  # Ensure this import works, based on your directory structure
+from BBM_G import BBM_GUI  
 
 class BionicBankManager:
     def __init__(self):
