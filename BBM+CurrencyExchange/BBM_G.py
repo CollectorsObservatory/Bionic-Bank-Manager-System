@@ -3,7 +3,6 @@ from tkinter import messagebox, simpledialog, font, filedialog
 from ttkthemes import ThemedTk
 import webbrowser
 import datetime
-from PIL import Image, ImageTk
 from ICE import currency_iso_codes,available_currencies,currencies_rates_buy,currencies_rates_sell
 from PIL import Image, ImageTk
 
@@ -93,9 +92,9 @@ class BBM_GUI(tk.Tk):
         # Load and place the image
         image_path = "fin.png"  
         original_image = Image.open(image_path)
-        resized_image = original_image.resize((250, 150))
+        resized_image = original_image.resize((400, 200))
         img = ImageTk.PhotoImage(resized_image)
-        img_label = tk.Label(self, image=img, bg="white")
+        img_label = tk.Label(self, image=img, bg='white')
         img_label.image = img
         img_label.place(relx=0.5, rely=0.75, anchor='center')
 
@@ -327,9 +326,7 @@ def footer_on_leave(self, e):
 def open_link(self, event):
     webbrowser.open("https://github.com/CollectorsObservatory") 
 
-# Instantiate and run the main loop
-if __name__ == "__main__":
-    app = BBM_GUI(None)  
-    app.mainloop()
+
+
 
     
