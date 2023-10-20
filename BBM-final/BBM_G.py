@@ -10,7 +10,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sympy as sp
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from snake_game import SnakeGame
+
+
+
+
 
 
 class BBM_GUI(tk.Tk):
@@ -18,12 +21,13 @@ class BBM_GUI(tk.Tk):
     def __init__(self, bank_manager, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.bank_manager = bank_manager
-        self.title("Bionic BankManager")
-        self.geometry("1600x1200")
+        self.title("Bionic Banking Software")
+        self.geometry("1000x800")
         self.configure(bg="white")
-        self.title_font = font.Font(family="Arial", size=18, weight="bold")
-        self.button_font = font.Font(family="Arial", size=12, weight="bold")
+        self.title_font = font.Font(family="Sans Serif", size=18, weight="bold")
+        self.button_font = font.Font(family="Sans Serif", size=12, weight="bold")
         self.initialize_ui()
+    
 
 
 
@@ -32,28 +36,28 @@ class BBM_GUI(tk.Tk):
         current_time = datetime.datetime.now().strftime("%H:%M:%S")
 
         # Display the current date on the upper left
-        date_label = tk.Label(self, text=current_date, font=("Courier", 12, "bold"), bg="white", fg="black")
+        date_label = tk.Label(self, text=current_date, font=("Sans Serif", 12, "bold"), bg="white", fg="black")
         date_label.place(relx=0.01, rely=0.01, anchor=tk.NW)
 
         # Display the current time just below the date
-        time_label = tk.Label(self, text=current_time, font=("Courier", 12, "bold"), bg="white", fg="black")
+        time_label = tk.Label(self, text=current_time, font=("Sans Serif", 12, "bold"), bg="white", fg="black")
         time_label.place(relx=0.01, rely=0.04, anchor=tk.NW)
 
         # Display Location, Employer Name, and Employer ID on the upper right
-        location_label = tk.Label(self, text="Location: Canada", font=("Courier", 12, "bold"), bg="white", fg="black")
+        location_label = tk.Label(self, text="Location: Canada", font=("Sans Serif", 12, "bold"), bg="white", fg="black")
         location_label.place(relx=0.99, rely=0.01, anchor=tk.NE)
 
-        employer_name_label = tk.Label(self, text="Employer Name: Server Admin", font=("Courier", 12, "bold"), bg="white", fg="black")
+        employer_name_label = tk.Label(self, text="Employer Name: Server Admin", font=("Sans Serif", 12, "bold"), bg="white", fg="black")
         employer_name_label.place(relx=0.99, rely=0.04, anchor=tk.NE)
 
-        employer_id_label = tk.Label(self, text="Employer ID: 0", font=("Courier", 12, "bold"), bg="white", fg="black")
+        employer_id_label = tk.Label(self, text="Employer ID: 0", font=("Sans Serif", 12, "bold"), bg="white", fg="black")
         employer_id_label.place(relx=0.99, rely=0.07, anchor=tk.NE)
 
         # Adjust the title font and display it
-        self.title_font = font.Font(font=("Courier", 18, "bold"), size=18, weight="bold")
+        self.title_font = font.Font(font=("Sans Serif", 23, "bold"), size=20, weight="bold")
 
-        menu_label = tk.Label(self, text="★ Welcome to Bionic BankManager ★", font=self.title_font, bg="white", fg="blue")
-        menu_label.pack(pady=20)
+        menu_label = tk.Label(self, text="🌐 Logged in:  Bionic Banking Software 🌐", font=self.title_font, bg="white", fg="black")
+        menu_label.pack(pady=15)
 
         button_frame = tk.Frame(self, bg="white")
         button_frame.place(relx=0.5, rely=0.4, anchor='center')  
@@ -97,13 +101,14 @@ class BBM_GUI(tk.Tk):
             button.bind("<Leave>", self.on_leave)
 
       
-        image_path = "fin.png"  
+        image_path = "fin1.png"
         original_image = Image.open(image_path)
-        resized_image = original_image.resize((400, 200))
+        resized_image = original_image.resize((256, 256), Image.LANCZOS)  
         img = ImageTk.PhotoImage(resized_image)
         img_label = tk.Label(self, image=img, bg='white')
         img_label.image = img
         img_label.place(relx=0.5, rely=0.75, anchor='center')
+
 
        
         img_label.bind("<Button-1>", self.open_link)
@@ -112,8 +117,8 @@ class BBM_GUI(tk.Tk):
         img_label.bind("<Button-1>", self.open_link)
 
         # Add footer
-        footer_label_text = "⚡ -Developed by CollectorsObservatory using AI- ⚡"
-        footer_label = tk.Label(self, text=footer_label_text, font=("Arial", 14, "bold"), bg="white", fg="#333333")
+        footer_label_text = "⚡ -By CollectorsObservatory under Collosus Software- ⚡"
+        footer_label = tk.Label(self, text=footer_label_text, font=("Sans serif", 15, "bold"), bg="white", fg="#333333")
         footer_label.pack(side=tk.BOTTOM, pady=5)
 
         
@@ -295,17 +300,7 @@ class BBM_GUI(tk.Tk):
                                 padx=20, 
                                 pady=10)
          plot_button.grid(row=5, column=0, columnspan=2, padx=10, pady=10)
-         snake_game = SnakeGame()  # Create an instance of the SnakeGame
-         snake_game_button = tk.Button(frame, text="Play Snake Game", 
-                              command=lambda: snake_game.run(), 
-                              font=self.button_font, 
-                              bg="#D3D3D3", 
-                              fg="black", 
-                              padx=20, 
-                              pady=10)
-         snake_game_button.grid(row=5, column=0, columnspan=2, padx=10, pady=10)
          
-
 
          
          
