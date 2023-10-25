@@ -2,6 +2,7 @@
 
 The Bionic Bank Manager is a  banking account management system that allows users to manage  accounts, conduct transactions, monitor  account details, and perform currency conversions.
 The final version of this app is in BBM-final folder , all other folders are there just to monitor progress.
+The web version is supposed to link up to a dist or app version of this code that is still under development.
 
 ## Main Features
 
@@ -11,23 +12,27 @@ The final version of this app is in BBM-final folder , all other folders are the
 4. **Money Withdrawal**: Users can withdraw money from their accounts.
 5. **Money Transfer**: Allows for money transfers between two accounts.
 6. **Account Information Retrieval**: Users can fetch details of a specific account.
-7. **Currency Conversion**: Users can convert amounts between different currencies using real-time exchange rates.
+7. **Currency Conversion**: Users can convert amounts between different currencies using static rates ( for optimization )
 8. **Account Saving**: After each transaction, account information is saved back to the `accounts.txt` file.
+9. **Calculator App**: Included in the currency conversion program.
+10. **Function plotting app**: Included in the currency conversion program.
 
 ## Technical Details
 
 ### Classes
 
 - **BionicBankManager**: This is the core of the system managing all account-related functionalities.
+- **ForexExchangeGUI**: Manages the exchange function with static rates ( for optimization )
+- **BBM_GUI**: The class that manages the graphical part of the program generations buttons and styles etc.
 
 ### Main Methods
 
-- `load_accounts()`: Loads account information from the `accounts.txt` file.
-- `create_account(holder_name, gender, balance)`: Creates a new account.
-- `save_accounts()`: Saves account information back to the `accounts.txt` file.
-- `deposit_money(account_number, amount)`: Allows for money deposits.
-- `withdraw_money(account_number, amount)`: Allows for money withdrawals.
-- `transfer_money(from_account, to_account, amount)`: Handles money transfers between accounts.
+- `load_accounts()`: Loads all account information from the `accounts.txt` file.
+- `create_account(holder_name, gender, balance)`: Creates a new account taking name gender and initial deposit.
+- `save_accounts()`: Saves account information back to the `accounts.txt` file(automatically).
+- `deposit_money(account_number, amount)`: Allows for money deposits using account number.
+- `withdraw_money(account_number, amount)`: Allows for money withdrawals using account number.
+- `transfer_money(from_account, to_account, amount)`: Handles money transfers between accounts using account number.
 - `convert_currency(account_number, target_currency, amount)`: Converts the specified amount into the target currency.
 - `get_account_info(account_number)`: Returns information about a specific account.
 
