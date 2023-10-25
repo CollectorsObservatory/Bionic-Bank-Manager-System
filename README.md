@@ -1,39 +1,36 @@
-Le fichier BBM-final contient la version la plus récente du programme , les autres fichiers sont ici juste pour montrer l'avancement du projet au fil du temps.
 # Bionic Bank Manager
 
-Le Bionic Bank Manager est un système de gestion de comptes bancaires simplifié qui permet aux utilisateurs de gérer leurs comptes, de réaliser des transactions et de suivre les détails de leur compte.
+The Bionic Bank Manager is a  banking account management system that allows users to manage  accounts, conduct transactions, monitor  account details, and perform currency conversions.
+The final version of this app is in BBM-final folder , all other folders are there just to monitor progress.
 
-## Fonctionnalités principales
+## Main Features
 
-1. **Chargement des comptes** : Au démarrage, le système charge les informations des comptes à partir d'un fichier `accounts.txt`.
-2. **Création de compte** : Permet aux utilisateurs de créer un nouveau compte.
-3. **Dépôt d'argent** : Les utilisateurs peuvent déposer de l'argent dans leurs comptes.
-4. **Retrait d'argent** : Les utilisateurs peuvent retirer de l'argent de leurs comptes.
-5. **Transfert d'argent** : Permet le transfert d'argent entre deux comptes.
-6. **Obtenir des informations de compte** : Les utilisateurs peuvent obtenir des détails sur un compte spécifique.
-7. **Sauvegarde des comptes** : À la fin de chaque transaction, les informations des comptes sont sauvegardées dans le fichier `accounts.txt`.
+1. **Account Loading**: At startup, the system loads account information from an `accounts.txt` file.
+2. **Account Creation**: Users can create a new account.
+3. **Money Deposit**: Users can deposit money into their accounts.
+4. **Money Withdrawal**: Users can withdraw money from their accounts.
+5. **Money Transfer**: Allows for money transfers between two accounts.
+6. **Account Information Retrieval**: Users can fetch details of a specific account.
+7. **Currency Conversion**: Users can convert amounts between different currencies using real-time exchange rates.
+8. **Account Saving**: After each transaction, account information is saved back to the `accounts.txt` file.
 
-## Détails techniques
+## Technical Details
 
 ### Classes
 
-- **BionicBankManager** : C'est le cœur du système qui gère toutes les fonctionnalités liées au compte.
+- **BionicBankManager**: This is the core of the system managing all account-related functionalities.
 
-### Méthodes principales
+### Main Methods
 
-- `load_accounts()`: Charge les informations des comptes à partir du fichier `accounts.txt`.
-- `create_account(holder_name, gender, balance)`: Crée un nouveau compte.
-- `save_accounts()`: Sauvegarde les informations des comptes dans le fichier `accounts.txt`.
-- `deposit_money(account_number, amount)`: Permet de déposer de l'argent.
-- `withdraw_money(account_number, amount)`: Permet de retirer de l'argent.
-- `transfer_money(from_account, to_account, amount)`: Gère le transfert d'argent entre comptes.
-- `get_account_info(account_number)`: Retourne les informations d'un compte spécifique.
-- `get_account_info_by_name(holder_name)`: Retourne les informations d'un compte basé sur le nom du titulaire.
+- `load_accounts()`: Loads account information from the `accounts.txt` file.
+- `create_account(holder_name, gender, balance)`: Creates a new account.
+- `save_accounts()`: Saves account information back to the `accounts.txt` file.
+- `deposit_money(account_number, amount)`: Allows for money deposits.
+- `withdraw_money(account_number, amount)`: Allows for money withdrawals.
+- `transfer_money(from_account, to_account, amount)`: Handles money transfers between accounts.
+- `convert_currency(account_number, target_currency, amount)`: Converts the specified amount into the target currency.
+- `get_account_info(account_number)`: Returns information about a specific account.
 
-### Démarrage du programme
+### Starting the Program
 
-Le programme peut être démarré en exécutant le script. Une interface utilisateur graphique, `BBM_GUI`, est utilisée pour interagir avec le `BionicBankManager`.
-
----
-
-N'hésitez pas à me dire si vous souhaitez apporter des modifications ou ajouter des informations supplémentaires.
+The program can be started by running the BBM.py file. A graphical user interface, `BBM_GUI`, is utilized to interact with the `BionicBankManager`.
