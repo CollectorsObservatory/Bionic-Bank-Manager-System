@@ -1,4 +1,4 @@
-# Bionic Bank Manager
+# Bionic Bank Manager🏛
 
 The Bionic Bank Manager is a  banking account management system that allows users to manage  accounts, conduct transactions, monitor  account details, and perform currency conversions.
 The final version of this app is in BBM-final folder , all other folders are there just to monitor progress.
@@ -6,7 +6,7 @@ The web version is supposed to link up to a dist or app version of this code tha
 <img width="993" alt="Screenshot 2023-10-25 at 5 38 29 PM" src="https://github.com/CollectorsObservatory/Bionic-Bank-Manager-System/assets/126903635/dd574698-26bc-4094-bbbc-b932dd4fade2">
 <img width="965" alt="Screenshot 2023-10-25 at 5 39 52 PM" src="https://github.com/CollectorsObservatory/Bionic-Bank-Manager-System/assets/126903635/e4f8b4e4-704c-46d2-ba7d-1f53eb6eb167">
 
-## Main Features
+## Main Features🚀
 
 1. **Account Loading**: At startup, the system loads account information from an `accounts.txt` file.
 2. **Account Creation**: Users can create a new account.
@@ -19,7 +19,7 @@ The web version is supposed to link up to a dist or app version of this code tha
 9. **Calculator App**: Included in the currency conversion program.
 10. **Function plotting app**: Included in the currency conversion program.
 
-## Technical Details
+## Technical Details🚀
 
 ### Classes
 
@@ -27,7 +27,7 @@ The web version is supposed to link up to a dist or app version of this code tha
 - **ForexExchangeGUI**: Manages the exchange function with static rates ( for optimization )
 - **BBM_GUI**: The class that manages the graphical part of the program generations buttons and styles etc.
 
-### Main Methods
+### Main Methods🚀
 
 - `load_accounts()`: Loads all account information from the `accounts.txt` file.
 - `create_account(holder_name, gender, balance)`: Creates a new account taking name gender and initial deposit.
